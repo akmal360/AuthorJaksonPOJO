@@ -1,0 +1,24 @@
+
+{
+	"authorName": "Akmal",
+	"books": [
+		{
+			"bookName": "Selenium with java",
+			"title": "Akmal",
+			"inPrint": "true",
+			"publishDate": "2020-070-15"
+		},
+		{
+			"bookName": "Selenium with C#",
+			"title": "Akmal",
+			"inPrint": "true",
+			"publishDate": "2020-070-16"
+		},
+		{
+			"bookName": "Selenium with Python",
+			"title": "Akmal",
+			"inPrint": "false",
+			"publishDate": "2020-07-117"
+		}
+	]
+}
